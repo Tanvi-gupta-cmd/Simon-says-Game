@@ -40,16 +40,6 @@ simon-says-game/
 └── README.md
 ```
 
-## 🚀 Installation
-
-1. Download or clone the project.
-2. Open the project folder.
-3. Run **index.html** in your browser.
-
-## 📸 Screenshot
-
-(Add a screenshot of the game interface here)
-
 ## 👩‍💻 Author
 
 Tanvi Gupta
